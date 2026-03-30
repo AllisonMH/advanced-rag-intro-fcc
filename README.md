@@ -1,4 +1,2 @@
-This project is my first attempt at building a RAG based agent based off tutorials. Thank you for visiting! 
-
-To use this RAG, you must have an OpenAI API key, in an .env file at the root level.
+This project is my first attempt at building a RAG based agent based off tutorials. Thank you for visiting! To use this RAG, you must have an OpenAI API key, in an .env file at the root level. In this project I am exploring query expansion and visualizing their accuracy using scatter plots from matplotlib. For the single query -> run python3 expansion_answer.py. For multi-queries -> run python3 expansion_queries.py.
 
